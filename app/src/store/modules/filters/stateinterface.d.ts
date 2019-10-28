@@ -1,0 +1,3 @@
+interface IFilterState {
+  filters: string[]
+}
