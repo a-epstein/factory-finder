@@ -1,0 +1,42 @@
+Essentially, I have an organized list of 950 pokemon that I want to be searchable.  The layout of the list I have is like this: 
+
+938 | Zapdos | Modest | Brightpowder | Thunderbolt | Air Cutter | Heat Wave | Signal Beam | SpA/Spe
+
+I'd like to be able to type a pokemon's name or move into the search bar and see all results, of either the pokemon's sets, or all pokemon with the move I search up.
+
+The important part is the Pokemon search, the move thing would be nice to have though, but I can do without it.
+
+The main issue right now is, even though I have the list, it's a pain to sort through as it's only in a Notepad file, and the data is pretty unpolished.  I'd like to ideally have it in an Android app, but I don't really know where to start making one.
+
+4:17 PM]Jean Sibelius:ease of access, i guess
+[4:17 PM]Jean Sibelius:I kind of just want to be able to tap a few buttons and find it
+[4:18 PM]Jean Sibelius:i don't even think I have a spreadsheet app installed, unless it's native on android
+
+
+4:22 PM]Jean Sibelius:o
+[4:23 PM]Jean Sibelius:http://www.psypokes.com/platinum/frontier_pokemon.php?region=johto
+[4:23 PM]Jean Sibelius:there's 4 pages, one for each region
+[4:24 PM]qualitycats:alright ty
+[4:24 PM]Jean Sibelius:
+Attachment file type: document
+HGSS_Factory_List.txt
+89.59 KB
+[4:24 PM]Jean Sibelius:this is my list
+[4:25 PM]Jean Sibelius:i checked most of it and i think it all matches up
+[4:25 PM]Jean Sibelius:the .txt has some extra information, such as the pokemon's assigned ID
+[4:26 PM]Jean Sibelius:there's 950 total sets, and after like #7xx the legendaries start being listed
+
+4:28 PM]Jean Sibelius:right
+[4:29 PM]Jean Sibelius:the frontier pokemon are divided in a few different ways
+[4:29 PM]Jean Sibelius:the weak shit like chimchar and turtwig have one set
+[4:29 PM]Jean Sibelius:the weaker stuff like swellow and vigoroth have two sets
+[4:29 PM]Jean Sibelius:whereas most everything else have four total sets
+[4:30 PM]Jean Sibelius:when you start a tower streak, the pokemon are pulled from the early pokeIDs
+[4:30 PM]Jean Sibelius:like 1-350 i think
+[4:31 PM]Jean Sibelius:then as you progress past battle 14? or 21? they start having pokemon from 351-890
+[4:31 PM]Jean Sibelius:and when you beat battle 49? i think, they can then get pokemon from 891-950 (legends)
+[4:32 PM]Jean Sibelius:factory is a bit different, but they use the same "set" differences
+[4:32 PM]Jean Sibelius:the first moveset is classified as "set1"
+[4:32 PM]Jean Sibelius:pokemon 1-350 aren't used in open level, but it's a good resource to have still
+[4:32 PM]Jean Sibelius:since level 50 exists
+[4:33 PM]Jean Sibelius:so, each pokemon goes from set 1-4, and legends are all classified as "set5"
