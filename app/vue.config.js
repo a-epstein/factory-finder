@@ -1,7 +1,7 @@
 const SWPrecacheWebpackPlugin = require('sw-precache-webpack-plugin')
 
 module.exports = {
-    baseUrl: (process.env.NODE_ENV === 'production' || process.env.NODE_ENV === 'staging') ? '/static/' : '/',
+    publicPath: (process.env.NODE_ENV === 'production' || process.env.NODE_ENV === 'staging') ? '/factory-finder/' : '/',
     devServer: {
       port: 3000,
       disableHostCheck: true,
